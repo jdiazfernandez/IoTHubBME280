@@ -33,9 +33,9 @@ namespace IoTWeatherHubDevice
         BME280Sensor _sensor;
 
         static DeviceClient deviceClient;
-        static string iotHubUri = "demomddiothub.azure-devices.net";
-        static string deviceKey = "xNqL28LfKVxXPbU2d0xr7att5+Jt1j5KEs51g0vCYGk=";
-        static string deviceId = "raspdemoIoT";
+        static string iotHubUri = "CHANGE";
+        static string deviceKey = "CHANGE";
+        static string deviceId = "CHANGE";
         public MainPage()
         {
             //this.InitializeComponent();
